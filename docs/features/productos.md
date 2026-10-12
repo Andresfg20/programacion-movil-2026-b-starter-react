@@ -1,6 +1,6 @@
 # Feature — Productos
 
-- **Owner:** [Su nombre]
+- **Owner:** Andres Felipe Gomez Anacona
 - **Status:** In progress
 - **Related stories:** CRUD de productos (Parcial C2, Parte 3)
 
